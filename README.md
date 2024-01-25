@@ -20,12 +20,13 @@ it will state as such - then it will pop up the preferences so that you can ente
 the command of your choice. The widget takes command line-style commands for
 windows or Mac OS/X.
 
+Designed and built by me.
+
 ![about](https://github.com/yereverluvinunclebert/Saturn-Ywidget/assets/2788342/acad321f-6a11-4c8c-92fa-9ed46abcec9a)
 
-All javascript widgets need an engine to function, in this case the widget uses 
-the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
-creates the widget according to the XML description and using the images you 
-provide. Designed and built by me.
+The Konfabulator code is managed code. All managed code, in this case javascript, needs an engine or a framework to function. For these particular desktop widgets, the widget uses 
+the Yahoo Widget Konfabulator engine. The engine interprets the javascript and creates the widget within a browser context, using the XML description and images you 
+provide. In this manner the widget is placed on your desktop. The end result of sll this is that you need to install the Yahoo Widget engine FIRST.
 
 ![bathysphere](https://github.com/yereverluvinunclebert/Saturn-Ywidget/assets/2788342/bfd2fb75-7e56-4b09-ad75-c11f24e8065d)
 
