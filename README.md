@@ -104,3 +104,6 @@ permission. In all other non-commercial cases I require a credit to the
 original artist using my name or one of my pseudonyms and a link to my site.
 With regard to the commercial use of incorporated images, permission and a
 licence would need to be obtained from the original owner and creator, ie. me.
+
+
+![desktop](https://github.com/yereverluvinunclebert/Ganymede-VB6-Widget/assets/2788342/868415c2-a289-4fb2-b038-a00eb4c4f7ba)
